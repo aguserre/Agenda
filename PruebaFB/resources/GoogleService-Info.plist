@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>355705029839-ap3i45d8ocb4clq26eecuon7sm07528v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.355705029839-ap3i45d8ocb4clq26eecuon7sm07528v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAKlEWhtYX6V5K7EROxzczb1ZOKFg7Qsg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>355705029839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.entregabe.fb</string>
+	<key>PROJECT_ID</key>
+	<string>entregable2-f9fb4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>entregable2-f9fb4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:355705029839:ios:ced835d4d806d0bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://entregable2-f9fb4.firebaseio.com</string>
+</dict>
+</plist>
